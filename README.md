@@ -17,3 +17,4 @@ This project implements a custom AI agent that can answer questions by following
     - Set up your OpenAI API key.
     - Run the script and interact with the agent via the CLI.
 
+Watch the demo of this application here: https://youtu.be/ZtlcCrJ9-yE
